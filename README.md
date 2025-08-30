@@ -29,6 +29,7 @@ Database (MySQL / SQLite)
 Clone the repository:
 
 git clone https://github.com/Navyatha7/Plant-Disease-Detection.git
+
 cd Plant-Disease-Detection
 
 
